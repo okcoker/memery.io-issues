@@ -5,6 +5,7 @@ Memery.io Issues
 
 If you have any suggestions, feedback or see any bugs, report them in the issue tracker on github: https://github.com/okcoker/memery.io-issues/issues
 
+You can also list issues/suggestions for the chrome extension located [here](https://chrome.google.com/webstore/detail/memery/ahcopjeljdpmpmgmebpiimpjifecnack).
 ## Bug reports:
 
 When reporting a bug, it would be helpful if you provide:
